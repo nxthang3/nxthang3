@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nguyễn Xuân Thắng
+- 👋 Hi, I’m Nguyễn Xuân Thắng, this is my github working account
 - 👀 I’m interested in coding, reading, researching, learning, and working with programing
 - 🌱 I’m currently learning manager project and java, .net, reacjs, angular.
 - 💞️ I’m looking to collaborate on github and working with my company
